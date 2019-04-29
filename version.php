@@ -25,9 +25,9 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'block_recommender';
-$plugin->release = '2.5';
-$plugin->version = 2013081300;
-$plugin->requires = 2013040500; // YYYYMMDDHH (This is the release version for Moodle 2.5).
+$plugin->release = '3.1';
+$plugin->version = 2016050900;
+$plugin->requires = 2016052300; // YYYYMMDDHH (This is the release version for Moodle 2.5).
 $plugin->cron = 3600;
 $plugin->maturity = MATURITY_STABLE;
 
